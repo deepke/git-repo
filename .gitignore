@@ -1,0 +1,6 @@
+*.pyc
+.repopickle_*
+/repoc
+_work
+tests-portable
+CREATING_NEW_VERSION
